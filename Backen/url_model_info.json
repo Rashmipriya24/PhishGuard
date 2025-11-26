@@ -1,0 +1,1 @@
+{"url_column": "url", "label_column": "type", "accuracy": 0.9127987776318921, "feature_names": ["url_length", "num_dots", "num_hyphens", "num_underscore", "num_slash", "num_question", "num_equal", "num_ampersand", "num_at", "num_digits", "has_https", "has_http", "suspicious_words", "has_ip", "domain_length"], "model_type": "RandomForest", "training_samples": 520952}
