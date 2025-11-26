@@ -1,0 +1,112 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+backend/database/phishguard.db
+backend/database/*.db
+
+# Machine Learning Models (uncomment if models are too large)
+# backend/models/*.pkl
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+test_auth.py
+test_api.py
+test_auth.html
+quick_test.py
+
+# Frontend - Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Frontend - Build
+frontend/dist/
+frontend/build/
+*.local
+
+# Frontend - Cache
+.vite/
+.cache/
+.parcel-cache/
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
+*.lnk
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Sensitive files
+*.key
+*.pem
+secrets/
+credentials/
+config/secrets.json
