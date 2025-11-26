@@ -1,0 +1,1 @@
+{"label_column": "label", "text_column": "num_email_addresses", "accuracy": 0.9867581213680099, "feature_names": ["text_length", "num_words", "num_sentences", "num_special_chars", "num_exclamation", "num_question", "num_dollar", "num_uppercase", "uppercase_ratio", "has_urgency", "has_threat", "has_reward", "has_security"], "model_type": "RandomForest", "training_samples": 419876}
